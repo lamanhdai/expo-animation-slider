@@ -1,5 +1,5 @@
-##Run
+##Run  
 npx expo start
 
-##Demo
+##Demo  
 ![Preview](test.gif)
